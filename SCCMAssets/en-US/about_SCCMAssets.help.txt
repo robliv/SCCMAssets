@@ -1,0 +1,11 @@
+PSTOPIC
+    about_SCCMAssets
+
+SHORT DESCRIPTION
+    SCCMAssets ...
+
+LONG DESCRIPTION
+    SCCMAssets ...
+
+DETAILED DESCRIPTION
+   ...
